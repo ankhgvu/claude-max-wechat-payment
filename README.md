@@ -1,0 +1,1 @@
+# claude-max-wechat-payment
